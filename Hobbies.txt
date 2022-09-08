@@ -1,1 +1,1 @@
-list of hobbies = [];
+list of hobbies = [running, tennis];
